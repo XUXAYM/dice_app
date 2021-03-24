@@ -1,4 +1,4 @@
-name: Dice
+name: dice_app
 description: A dices rolling application.
 
 publish_to: 'none'
